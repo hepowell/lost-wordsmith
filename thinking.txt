@@ -1,0 +1,4 @@
+set up game
+welcome message
+when user enters yes
+initialize first puzzle

@@ -22,6 +22,9 @@ h1 {
 
 #output {
     margin-bottom: 10px;
+    font-size: 18px;
+    padding: 20px;
+    line-height: 30px;
 }
 
 #input {
@@ -33,5 +36,5 @@ h1 {
     color: #fff; /* Set text color */
     border: none;
     outline: none;
-    font-size: 16px; /* Adjust font size as needed */
+    font-size: 18px; /* Adjust font size as needed */
 }
