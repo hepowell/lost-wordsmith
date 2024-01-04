@@ -1,1 +1,1 @@
-A daily text based adventure word game
+A text based adventure word game
